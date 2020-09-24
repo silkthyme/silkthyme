@@ -10,7 +10,7 @@ I'm currently learning these frameworks: Express.js, React, Electron, and SCSS. 
 
 Trivia: I like movies and indie music. Also any dessert with matcha in it. My favorite activity is curling up with a book and not moving for 5+ hours.
 
-![Christina's github stats](https://github-readme-stats.vercel.app/api?username=silkthyme&show_icons=true&hide_border=true)
+![Christina's github stats](https://github-readme-stats.vercel.app/api?username=silkthyme&show_icons=true&hide_border=false)
 
 Shoot me an email <a href="mailto:christinahuangji@gmail.com">
     <img align="left" alt="Christina Huang | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
