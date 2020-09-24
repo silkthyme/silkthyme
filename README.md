@@ -8,7 +8,7 @@ I was an SDE intern at Amazon in the summers of my freshman and sophomore years.
 
 I'm currently learning these frameworks: Express.js, React, Electron, and SCSS. I am interested in computer vision and AI, and [all](https://shihmengli.github.io/3D-Photo-Inpainting/) [the](https://www.gwern.net/GPT-3) [ways](https://sketch2code.azurewebsites.net/) we can program computers to do [our](https://www.theverge.com/21346343/gpt-3-explainer-openai-examples-errors-agi-potential) jobs.
 
-Outside of CS, I like Murakami novels, Wes Anderson movies, and city pop. Also climbing trees.
+Trivia: I like movies and indie music. Also any dessert with matcha in it. My favorite activity is curling up with a book and not moving for 5+ hours.
 
 ![Christina's github stats](https://github-readme-stats.vercel.app/api?username=silkthyme&show_icons=true&hide_border=true)
 
