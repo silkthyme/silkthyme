@@ -4,7 +4,7 @@ I'm a 3rd year at UC Davis majoring in CS and minoring in math.
 
 I do web development on [Pinnacle](http://pinnacle.us.org/). I'm the editor for WiCS at Davis. I work on the controls subsystem for [Oneloop](https://www.davishyperloop.com/), UCD's Hyperloop team (in 2018, the team went to compete at the SpaceX HQ. What I wouldn't give to see Falcon 9 and Of Course I Still Love You in person).
 
-I was an SDE intern at Amazon in the summers of my freshman and sophomore years. I worked and played with cool people who were skilled at both coding and [social deduction](https://proavalonbetatesting.herokuapp.com/), and I built a new microservice to help fight seller fraud. 
+I was an SDE intern at Amazon in the summers of my freshman and sophomore years, where I worked with cool people who were skilled at both coding and [social deduction](https://proavalonbetatesting.herokuapp.com/). I built a new microservice to help fight seller fraud!
 
 I'm currently learning these frameworks: Express.js, React, Electron, and SCSS. I am interested in computer vision and AI, and [all](https://shihmengli.github.io/3D-Photo-Inpainting/) [the](https://www.gwern.net/GPT-3) [ways](https://sketch2code.azurewebsites.net/) we can program computers to do [our](https://www.theverge.com/21346343/gpt-3-explainer-openai-examples-errors-agi-potential) jobs.
 
