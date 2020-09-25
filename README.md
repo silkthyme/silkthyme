@@ -1,4 +1,4 @@
-#### Hello It's Me 🌿
+#### Hello 🌿
 
 I'm a 3rd year undergrad at UC Davis majoring in CS and minoring in math. I do web development on [Pinnacle](http://pinnacle.us.org/). I'm the editor for WiCS at Davis. I work on the controls subsystem for [UCD's Hyperloop team](https://www.davishyperloop.com/) (in 2018, the team went to compete at the SpaceX HQ. What I wouldn't give to see Of Course I Still Love You in person 😩).
 
