@@ -6,7 +6,7 @@ I was an SDE intern in the summers of my freshman and sophomore years at Amazon,
 
 I'm currently learning Express.js, React, Electron, and Sass. I am interested in computer vision and AI, and [all](https://shihmengli.github.io/3D-Photo-Inpainting/) [the](https://www.gwern.net/GPT-3) [ways](https://sketch2code.azurewebsites.net/) we can program computers to do [our](https://www.theverge.com/21346343/gpt-3-explainer-openai-examples-errors-agi-potential) jobs.
 
-Trivia: I like movies and indie music. Also any dessert with matcha in it.
+Trivia: I like books and indie music. Also any dessert with matcha in it.
 
 ![Christina's github stats](https://github-readme-stats.vercel.app/api?username=silkthyme&show_icons=true&hide_border=false)
 
