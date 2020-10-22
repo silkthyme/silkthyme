@@ -10,11 +10,11 @@ Trivia: I like books and indie music. Also any dessert with matcha in it.
 
 ![Christina's github stats](https://github-readme-stats.vercel.app/api?username=silkthyme&show_icons=true&hide_border=false)
 
-Shoot me an email <a href="mailto:christinahuangji@gmail.com">
+Email <a href="mailto:christinahuangji@gmail.com">
     <img align="left" alt="Christina Huang | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a> 
 <br>
 
-Check out my LinkedIn <a href="http://linkedin.com/in/christinahuangj">
+LinkedIn <a href="http://linkedin.com/in/christinahuangj">
     <img align="left" alt="Christina Huang | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
