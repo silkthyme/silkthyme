@@ -7,12 +7,3 @@ I was an SDE intern in the summers of my freshman and sophomore years at Amazon,
 I'm currently learning Express.js, React, Electron, and Sass. I am interested in computer vision and AI, and [all](https://shihmengli.github.io/3D-Photo-Inpainting/) [the](https://www.gwern.net/GPT-3) [ways](https://sketch2code.azurewebsites.net/) we can program computers to do [our](https://www.theverge.com/21346343/gpt-3-explainer-openai-examples-errors-agi-potential) jobs.
 
 ![Christina's github stats](https://github-readme-stats.vercel.app/api?username=silkthyme&show_icons=true&hide_border=false)
-
-Email <a href="mailto:christinahuangji@gmail.com">
-    <img align="left" alt="Christina Huang | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-</a> 
-<br>
-
-LinkedIn <a href="http://linkedin.com/in/christinahuangj">
-    <img align="left" alt="Christina Huang | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-</a>
