@@ -1,6 +1,6 @@
 #### Hello 🌿
 
-Avid full-stack dev, working on functional & aesthetically pleasing projects!
+Full-stack dev
 
 Interested in: AI, computer vision, and front-end design.
 
