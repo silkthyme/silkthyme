@@ -2,7 +2,7 @@
 
 Full-stack dev
 
-Interested in: Sustainabile/solarpunk tech and front-end design.
+Interested in: Sustainable technology and front-end design.
 
 [My LinkedIn](https://www.linkedin.com/in/christinahuangj/)
 
